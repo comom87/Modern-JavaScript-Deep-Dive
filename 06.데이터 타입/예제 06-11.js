@@ -2,6 +2,6 @@
 // 예제 06-08
 var template = `<ul>
     <li><a href="#">Home</a></li>
-<ul>`;
+</ul>`;
 
 console.log(template);
